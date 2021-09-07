@@ -51,6 +51,7 @@ Específicos
 3.2.1- Implemente el circuito que se representa  en la Figura 1.
 
 ![1](https://user-images.githubusercontent.com/75336529/132270152-40f807b5-b3a6-45a2-91b3-faf4b7bafc8a.png)
+
 Figura 1:Circuito con alimentacion AC
 
 3.2.2.- Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
