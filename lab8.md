@@ -31,6 +31,8 @@ Específicos
 
 **2.-MARCO TEÓRICO**
 
+![d1](https://user-images.githubusercontent.com/75336529/132270181-9dae37ef-0cf3-40a1-87e9-5826102ca3d0.jpeg)
+
 **3.-EXPLICACIÓN DEL PROCEDIMIENTO**
 
 **3.1.-Materiales y equipo**
@@ -48,10 +50,22 @@ Específicos
 
 3.2.1- Implemente el circuito que se representa  en la Figura 1.
 
+![1](https://user-images.githubusercontent.com/75336529/132270152-40f807b5-b3a6-45a2-91b3-faf4b7bafc8a.png)
+Figura 1:Circuito con alimentacion AC
+
 3.2.2.- Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 Khz.
+
 3.2.3.- Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
 el osciloscopio.
+
+![2](https://user-images.githubusercontent.com/75336529/132270154-341aea27-a324-4d75-b931-f5c9223ab282.png)
+
+![3](https://user-images.githubusercontent.com/75336529/132270160-69d60584-43b7-4162-8374-46835c96dda3.png)
+
+![4](https://user-images.githubusercontent.com/75336529/132270170-78553508-b179-4dfe-9ece-48567952ea02.png)
+
+![5](https://user-images.githubusercontent.com/75336529/132270173-6c7a8639-50ca-4dc2-99eb-a0d9c0d7b1c5.png)
 
 **4.-RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
@@ -59,36 +73,56 @@ el osciloscopio.
 
 4.1.1.- ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
+Abarca 2.50 aproximadamente.
+
 4.1.2.- ¿En qué valor está posicionada la perilla VOLTS/DIV?
+
+Esta posicionada en el valor de 10.
 
 4.1.3.- ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
+Abarca 3.75 de los cuadros aproximadamente.
+
 4.1.4.- ¿En qué valor está posicionada la perilla TIME/DIV?
 
-4.1.5.- 7.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
-del osciloscopio?
+Esta posicionada en el valor 0.1m
 
-Amplitud de voltaje:
+4.1.5.- 7.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
-Periodo:
+Amplitud de voltaje: 13.72v
+
+Periodo: 0.25ms
 
 4.1.6.- Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.
 
-f:    (Hz)
+f:4000(Hz)
 
-ω:     (rad/s)
+ω:8000π(rad/s)
 
 4.1.7.- Con el multímetro digital mida el voltaje de salida en RL:
 
-4.1.8.- Compare el voltaje medido en el punto 4.1.5. y el obtenido en el punto 4.2.7.
-¿Coinciden?     ¿Por qué?
+El valor aproximado es de 9.70V
 
+4.1.8.- Compare el voltaje medido en el punto 4.1.5. y el obtenido en el punto 4.2.7.
+
+¿Coinciden?
+
+NO
+
+¿Por qué?
+
+Porque el valor medido con el osciloscopio es un voltaje pico y el valor medido con el multimetro es un valor eficaz o rms el cual se concidera un equivalente de votaje DC en AC.
 
 **5.-VIDEO**
 
+https://www.youtube.com/watch?v=UK4zC-ruAXE
 
 **6.-CONCLUSIONES**
 
 
 **7.-BIBLIOGRAFIA**
+
+EcuRed. (s. f.). Onda senoidal - EcuRed. Recuperado 7 de septiembre de 2021, de https://www.ecured.cu/Onda_senoidal#:%7E:text=Onda%20senoidal%20representa%20el%20valor,marcados%20en%20amplitud%20y%20tiempo.&text=Tambi%C3%A9n%20responden%20a%20la%20misma,de%20las%20ondas%20de%20radio.
+
+Electricidad: Circuitos de Corriente Alterna. (s. f.). Conceptos de electronica para aplicaciones industriales. Recuperado 7 de septiembre de 2021, de http://www.sapiensman.com/electrotecnia/corriente_alterna.htm
