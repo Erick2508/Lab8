@@ -27,7 +27,14 @@ Ing. Darwin Alulema
 
 General
 
+Examinar el comportamiento de una onda senosoidal generada por la corriente alterna.
+
 Específicos
+
+Comprobar que valores nos da el osciloscopio en la grafica.
+
+Aplicar los modelos matematicos para determinar el valor eficaz y el valor pico de la onda senosoidal.
+
 
 **2.-MARCO TEÓRICO**
 
@@ -121,6 +128,13 @@ https://www.youtube.com/watch?v=UK4zC-ruAXE
 
 **6.-CONCLUSIONES**
 
+•	Se puede concluir que una onda senoidal representa el valor de la tención de la Corriente alterna a través de un tiempo continuamente variable.
+
+•	De la misma manera se concluye que la amplitud de una onda senoidal es justamente el valor máximo de la función de la misma; que también se lo conoce como amplitud pico.
+
+•	También concluimos que un ciclo de una onda senoidal es una parte de la onda contenida en un periodo estos pueden ser medidos desde cualquier punto mientras estén limitados por el mismo.
+
+•	Finalmente concluimos que la frecuencia de una onda senoidal es la cantidad de ciclos que ocurren en 1 segundo y se encuentra vinculada al argumento de la función seno.
 
 **7.-BIBLIOGRAFIA**
 
